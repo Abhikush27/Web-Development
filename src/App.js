@@ -10,6 +10,8 @@ import {PushToTalkButton, PushToTalkButtonContainer} from '@speechly/react-ui';
 
 function App() {
 
+  
+
 // const global = useContext(TrackerContext);
 // console.log(global);    to use the "Provider" function
 
